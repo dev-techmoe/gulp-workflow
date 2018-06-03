@@ -16,6 +16,7 @@ techmoe's basic gulp workflow for web frontend development
 
 - [plumber](https://www.npmjs.com/package/gulp-plumber)
 - [rename](https://www.npmjs.com/package/gulp-rename)
+- [clean](https://www.npmjs.com/package/gulp-clean)
 - [less](https://www.npmjs.com/package/gulp-less)
 - [clean-css](https://www.npmjs.com/package/gulp-clean-css)
 - [concat](https://www.npmjs.com/package/gulp-concat)
